@@ -1,0 +1,6 @@
+{
+  "combatActionDrawer.settings.system.name": "Game System actions",
+  "combatActionDrawer.settings.system.hint": "Select the available game system from which to show combat actions",
+  "combatActionDrawer.settings.system.choices.1": "dnd5e",
+  "combatActionDrawer.ui.handle": "Combat Action Drawer"
+}
